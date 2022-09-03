@@ -1,0 +1,139 @@
+{
+  "account": [
+    {
+      "id": 1,
+      "email": "krishna",
+      "password": 1234,
+      "name": "Digital Media",
+      "mobile": 8933991522
+    }
+  ],
+  "productlist": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "price": 100,
+      "details": "Its a ver good fruit for health",
+      "photo": "img2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mango",
+      "qty": 1,
+      "price": 120,
+      "details": "Its a ver good fruit for health",
+      "photo": "img1.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Grapes",
+      "price": 120,
+      "details": "Its a ver good fruit for health",
+      "photo": "img3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Banana",
+      "price": 120,
+      "details": "Its a ver good fruit for health",
+      "photo": "img4.jpg"
+    },
+    {
+      "name": "Laptop",
+      "price": "120000",
+      "details": "Its really a nice laptop",
+      "photo": "https://tse2.mm.bing.net/th?id=OIP.pNPphF-a2m-Mc_PEydeO1AHaHa&pid=Api&P=0",
+      "id": 5
+    }
+  ],
+  "cart": [],
+  "orderlist": [
+    {
+      "cutomername": "krishna",
+      "mobile": "8933991522",
+      "email": "krishna10342@gmail.com",
+      "address": "Karimuddinpur",
+      "myorder": [
+        {
+          "id": 1,
+          "name": "Apple",
+          "price": 100,
+          "details": "Its a ver good fruit for health",
+          "photo": "img2.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Mango",
+          "price": 120,
+          "details": "Its a ver good fruit for health",
+          "photo": "img1.jpg"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "cutomername": "krishnanand",
+      "mobile": "8933991522",
+      "email": "krishna10342@gmail.com",
+      "address": "Karimuddinpur Ghazipur",
+      "myorder": [
+        {
+          "id": 2,
+          "name": "Mango",
+          "price": 120,
+          "details": "Its a ver good fruit for health",
+          "photo": "img1.jpg"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "cutomername": "",
+      "mobile": "",
+      "email": "",
+      "address": "",
+      "myorder": [
+        {
+          "id": 2,
+          "name": "Mango",
+          "price": 120,
+          "details": "Its a ver good fruit for health",
+          "photo": "img1.jpg"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "cutomername": "krishna",
+      "mobile": "8933991522",
+      "email": "krishna10342@gmail.com",
+      "address": "Marathalli banglore",
+      "myorder": [
+        {
+          "id": 2,
+          "name": "Mango",
+          "price": 120,
+          "details": "Its a ver good fruit for health",
+          "photo": "img1.jpg"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "cutomername": "krishna",
+      "mobile": "8933991522",
+      "email": "krishna10342@gmail.com",
+      "address": "Marathalli banglore",
+      "myorder": [
+        {
+          "id": 2,
+          "name": "Mango",
+          "price": 120,
+          "details": "Its a ver good fruit for health",
+          "photo": "img1.jpg"
+        }
+      ],
+      "id": 5
+    }
+  ]
+}
